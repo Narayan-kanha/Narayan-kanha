@@ -13,7 +13,8 @@ Here are some of the fun things I’ve built so far:
 - **[minecraft_ai](https://github.com/Narayan-kanha/minecraft_ai)** – Exploring AI in the world of Minecraft (Rust)  
 - **[Clock-made-of-Clocks](https://github.com/Narayan-kanha/Clock-made-of-Clocks)** – A quirky Python project  
 - **[Chatbot-By-Lakshmi-Narayan-V3](https://github.com/Narayan-kanha/Chatbot-By-Lakshmi-Narayan-V3)** – My version 3 chatbot built in Python  
-- **[AI-Video-tools-by-Kanha](https://github.com/Narayan-kanha/AI-Video-tools-by-Kanha)** – Fun tools for working with AI & video (Python)  
+- **[AI-Video-tools-by-Kanha](https://github.com/Narayan-kanha/AI-Video-tools-by-Kanha)** – Fun tools for working with AI & video (Python)
+- **[Techteen.in](https://techteen.in/) - My own website, Built using Next.JS 😏
 
 *…and more to come!*
 
