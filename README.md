@@ -1,3 +1,5 @@
+# sorry, I would be inactive for some time, due to my school exams and 10th class... thanks for visiting...
+
 # 👋 Hi, I’m Lakshmi Narayan (aka Narayan-kanha)  
 **13-year-old coder & creator, based in Delhi, India**  
 
